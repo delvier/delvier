@@ -1,4 +1,14 @@
-### Hi there 👋
+An amateur and independent researcher for various fields.
+
+- C and C++
+- C#
+- Javascript/TypeScript
+- Python
+- SQL
+- Shell script and Linux environment
+- GIS (Geographic information system)
+- Writing systems
+- Perfect pitch, kind of (i.e. feeling awkward in front of transposing instruments)
 
 <!--
 **delvier/delvier** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
