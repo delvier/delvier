@@ -7,7 +7,7 @@ An amateur and independent researcher for various fields.
 - SQL
 - Shell script and Linux environment
 - GIS (Geographic information system)
-- Writing systems
+- Writing systems, Unicode/UCS, and other computer encodings
 - Perfect pitch, kind of (i.e. feeling awkward in front of transposing instruments)
 
 <!--
